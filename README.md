@@ -90,4 +90,5 @@ To run NiFi:
       laptop:nifi-1.0.0-SNAPSHOT myuser$ ./bin/nifi.sh start
 
     Direct your browser to http://localhost:8080/nifi/ and you should see a screen like this screenshot: 
-    https://raw.githubusercontent.com/apache/nifi/master/nifi-docs/src/main/asciidoc/images/nifi_first_launch_screenshot.png
+
+![](images/Nifi_1.png)
