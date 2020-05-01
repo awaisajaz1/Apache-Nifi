@@ -1,6 +1,11 @@
 # Apache-Nifi
 Apache Nifi for Data Engineering
 
+# NiFiTemplates
+A collection of templates for use with Apache NiFi and an excel file which indicates what processors/controller services are in each template. This collection is meant to be a place for users to come to see how processors are configured or potentially used. As well as for developers to have easy access to templates to test their changes with.
+
+The counts along the top of the excel file indicate how many templates currently use that processor.
+
 https://nifi.apache.org/ is an easy to use, powerful, and reliable system to process and distribute data.
 
 # Features
